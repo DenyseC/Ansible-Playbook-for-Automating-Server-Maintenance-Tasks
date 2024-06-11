@@ -81,6 +81,4 @@ This Ansible playbook automates common server maintenance tasks such as updating
     ansible-playbook -i hosts.ini maintenance-playbook.yml
     ```
 
-This playbook demonstrates the ability to automate maintenance tasks using Ansible, showcasing practical skills in IT Configuration Management, Deployment, and Orchestration tools, as well as ensuring the overall health and security of application and web servers. 
 
-You can post this playbook on your GitHub repository to illustrate your expertise in automation and server management.
